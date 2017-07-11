@@ -1,0 +1,9 @@
+If something worked before and it doesn't now you can figure out what broke.
+
+Manual is better that automatic saving because it is difficult to determine a rule for when a substantive change has been made.
+
+treating each file seperately is easier, but sometimes changes to multiple files are required.
+
+git log lets you view al versions, git diff lets you compare two versions
+
+You will be able to find what you broke
